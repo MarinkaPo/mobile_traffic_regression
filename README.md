@@ -1,6 +1,5 @@
 # :bar_chart: :wavy_dash: :signal_strength: :vibration_mode: mobile_traffic_regression
 Forecasting the volume of traffic at the base stations of a mobile operator using ML methods 
-
 <img src='additionally/mobile_station.jpg' width ='250'/>
 
 # Dataset info
